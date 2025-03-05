@@ -162,7 +162,7 @@ p.note { display: none; }
 <h2><span class="yellow">子供の遊び場もなかなかの広さ</span></h2>
 <a href="20250305_016.JPG" target="_blank"><img src="20250305_016.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">近の販売店が2軒並びます</span></h2>
+<h2><span class="yellow">金の販売店が2軒並びます</span></h2>
 <a href="20250305_017.JPG" target="_blank"><img src="20250305_017.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ガラケーの中古品</span></h2>
