@@ -208,8 +208,8 @@ p.note { display: none; }
 <a href="20250305_043.JPG" target="_blank"><img src="20250305_043.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">最後にパタヤに関するXでの記述があったので参考までに載せます<br>街を歩くとこれに該当しそうなお方も見受けられますが、ほとんどは小さな子供連れのヤングファミリーですね</span></h2>
-<a href="20250305_001.png" target="_blank"><img src="20250305_001.png" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">最後にパタヤに関するXでの記述があったので参考までに載せます<br>街を歩くとこれに該当しそうなお方も見受けられますが、ほとんどは小さな子供連れのヤングファミリーですね<br>画像クリックでXの投稿に飛びます↓</span></h2>
+<a href="https://x.com/extreem_mossann/status/1896860675760390373?s=46" target="_blank"><img src="20250305_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20250305_002.png" target="_blank"><img src="20250305_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20250305_003.png" target="_blank"><img src="20250305_003.png" alt="サンプル画像" width="900" /></a>
 
